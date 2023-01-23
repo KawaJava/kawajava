@@ -6,4 +6,4 @@
  - [x] **Aplikacje bazodanowe** - programy obsługujące bazy danych (większość z nich jest w MySQL).  Są to systemy typu CRUD, pozwalające dodawać, edytować i usuwać rekordy z poszczególnych tabel relacyjnej bazy danych.
  - [x] **Gry komputerowe 2D** - gry w których poruszamy się ludzikiem po mapie. Prostsze z nich polegają na szukaniu drogi, znajdowaniu kluczy i otwieraniu drzwi. W trochę bardziej zaawansowanych grach można walczyć z przeciwnikami komputerowymi, strzelać, wybierać broń i inne przedmioty z ekwipunku itp.
 
-Zapraszam na moją [stronę internetową,](www.kavajava.github.io) gdzie dokładniej opisałem swoje aplikacje, doświadczenie w programowaniu oraz zainteresowania i wiele więcej.
+Zapraszam na moją [stronę internetową,]) gdzie dokładniej opisałem swoje aplikacje, doświadczenie w programowaniu oraz zainteresowania i wiele więcej.
