@@ -9,7 +9,9 @@
 
 ## Główne technologie:
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge)
+
+![Java](https://img.shields.io/badge/21-Java-orange?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/3-Spring%20Boot-brightgreen?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge)
